@@ -93,7 +93,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 
 **Profile:**
-![Screenshot (87)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/707d3fa8-0462-4048-a740-c3f3e225c504)
+![image](https://github.com/user-attachments/assets/3f662296-39d7-4585-a19e-0221b689641c)
 ![Screenshot (88)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/0d4b22fe-01b0-4176-b03f-8ba780eb0589)
 
 
