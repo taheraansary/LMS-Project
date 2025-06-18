@@ -120,7 +120,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 
 **Dashboard:**
-![Screenshot (95)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/ba3a9695-cde5-437d-b05c-2c1babb1eedc)
+![image](https://github.com/user-attachments/assets/0c9e50b6-8c92-4712-9e00-9a5a5af1cc46)
 ![Screenshot (96)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/5383d0f6-edba-4cd3-8fb0-53ba2ca76b5c)
 ![Screenshot (97)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/d02a3ed9-40a2-403e-ad4c-743986d3bb1a)
 
