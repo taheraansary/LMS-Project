@@ -77,13 +77,13 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## Site Images
 **Login:**
+<img width="1265" height="712" alt="image" src="https://github.com/user-attachments/assets/e46a6198-6fc4-4324-87b9-db057d5fd4f5" />
 
-![Screenshot (84)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/5287bb3e-32b3-4d07-b430-30d9f0f8c511)
 
 
 
 **Register:**
-![Screenshot (85)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/7af66295-bac6-4af2-a415-d666ffc9fb00)
+<img width="1138" height="640" alt="image" src="https://github.com/user-attachments/assets/ebedbc10-ac9d-4106-b4d9-feb2063cdfae" />
 
 
 
@@ -94,54 +94,55 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 **Profile:**
 ![image](https://github.com/user-attachments/assets/3901b926-171c-4e72-a430-f771e5a1bce5)
-![Screenshot (88)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/0d4b22fe-01b0-4176-b03f-8ba780eb0589)
+<img width="1139" height="614" alt="image" src="https://github.com/user-attachments/assets/a2464981-ea7a-4bd0-aff1-a13910737f1b" />
 
 
 
 **Learnings:**
-![Screenshot (89)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/7179e9bd-648d-4534-8495-6403a07e9482)
+<img width="1920" height="430" alt="image" src="https://github.com/user-attachments/assets/a229152c-446d-4b5a-b72f-ac790e63db3c" />
 
 
 
 **Course learning:**
-![Screenshot (90)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/c79f58d5-d5e0-4899-85cc-fe126fdc09c5)
-![Screenshot (91)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/79641a32-f261-433c-a183-7f262a121c9b)
+<img width="1137" height="641" alt="image" src="https://github.com/user-attachments/assets/360c57ad-0ba5-4a27-84dc-c158a6ee98fa" />
+<img width="1138" height="494" alt="image" src="https://github.com/user-attachments/assets/3b227bbd-b3e0-4db6-8d65-d31ab904fb98" />
 
 
 
 **Assessment:**
-![Screenshot (92)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/c6c2cd14-e3c3-4906-bfec-85054325542e)
+<img width="1138" height="641" alt="image" src="https://github.com/user-attachments/assets/26ded342-984e-45b5-8747-1c2659537ffd" />
 
 
 
 **Certificate:**
-![Screenshot (94)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/602071e3-f74c-4026-9d7c-fc1cc9aa4f58)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4c29c9ae-1a54-4302-8443-84849fee4b20" />
 
 
 
 **Dashboard:**
-![image](https://github.com/user-attachments/assets/0c9e50b6-8c92-4712-9e00-9a5a5af1cc46)
-![Screenshot (96)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/5383d0f6-edba-4cd3-8fb0-53ba2ca76b5c)
-![Screenshot (97)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/d02a3ed9-40a2-403e-ad4c-743986d3bb1a)
+<img width="1920" height="657" alt="image" src="https://github.com/user-attachments/assets/c69fcecd-d6e0-4531-9fe4-10b0ab766377" />
+<img width="1920" height="487" alt="image" src="https://github.com/user-attachments/assets/a978d856-7430-46e4-844d-118d82738131" />
+<img width="1920" height="880" alt="image" src="https://github.com/user-attachments/assets/c62957b7-a4ce-4b82-90d0-8d8f40c51fd9" />
 
 
 
 **Add Course:**
-![Screenshot (98)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/a57c4b2b-d8ca-4035-8153-2626298474e6)
+<img width="1138" height="640" alt="image" src="https://github.com/user-attachments/assets/eada83d3-7aa5-43f7-b058-744a77800b7a" />
 
 
 
 **Edit Course:**
-![Screenshot (99)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/4dddc1b2-435b-4a07-864d-eeb4a4d6b233)
+<img width="1137" height="640" alt="image" src="https://github.com/user-attachments/assets/8457c837-2ed1-40a7-ab28-9d6780aa82b9" />
+
 
 
 
 **Add Assessment Questions:**
-![Screenshot (100)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/91fd1e0a-b613-4814-a1b4-69827352919f)
+<img width="1137" height="641" alt="image" src="https://github.com/user-attachments/assets/da15f9d0-4cf7-413d-9e90-81fb6313f18e" />
 
 
 
 **Home page:**
-![Screenshot (80)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/8d67282c-0043-4ed6-ae9d-956489b27e55)
-![Screenshot (81)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/956f27e9-3552-4411-8ff5-d2cdc640c240)
-![Screenshot (82)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/a6550a77-605c-46e9-b038-fd2b1949575b)
+<img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/e8c7f0e0-5513-4923-85bc-af4322c2eefe" />
+<img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/4647c9c3-232f-4993-b063-ce1fb028c7cf" />
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/3b89b1fa-c777-48db-afcc-a4d4a7261693" />
